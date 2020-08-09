@@ -1,0 +1,11 @@
+a=str
+a=input("Enter the file name:")
+
+p=str
+y=str
+if a[-1]==str("y"):
+   a[-2]==str("p")
+   print("the file extention is phyton")
+else:
+  print("not found")
+
