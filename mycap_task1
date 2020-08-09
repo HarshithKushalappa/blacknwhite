@@ -1,0 +1,6 @@
+print("task-1")
+r=float(input("Enter the value of the radius of a circle: "))
+a=float
+a=3.14 * r * r
+print("The area of the circle ="+str(a))
+    
