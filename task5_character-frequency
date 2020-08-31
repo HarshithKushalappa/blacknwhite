@@ -1,0 +1,6 @@
+input_str = input("Enter the string")
+frequency_table ={}
+for char in input_str:
+    frequency_table[char]=frequency_table.get(char,0)+1
+
+print("character frequency table for '{}' is:\n {}".format(input_str, str(frequency_table)))
